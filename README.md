@@ -2,7 +2,7 @@
 
 > ⚠️ **Project Status:** Work in Progress (WIP)
 
-Windows PC Recovery Tool (PRT) is a personal open-source project developed by **Mohamed**. It aims to provide a simple, lightweight command-line toolkit for Windows recovery, troubleshooting, and system maintenance.
+Windows PC Recovery Tool (PRT) is a personal open-source project developed by **Roid.wim**. It aims to provide a simple, lightweight command-line toolkit for Windows recovery, troubleshooting, and system maintenance.
 
 ## Planned Features
 

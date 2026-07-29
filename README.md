@@ -21,7 +21,7 @@ The project is currently being rewritten from scratch and is still in active dev
 
 ## Requirements
 
-* Windows 8.1 / 10 / 11 (Still Testing Windows XP / Vista / 7
+* Windows 7 / 8.1 / 10 / 11 (Still Testing Windows XP / Vista / 7
 * Command Prompt (Administrator privileges recommended for some features)
 
 ## License

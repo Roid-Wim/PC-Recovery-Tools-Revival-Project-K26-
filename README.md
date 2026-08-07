@@ -34,4 +34,4 @@ MT License (You can use it but dont Edit Code)
 
 ---
 
-Thank you for checking out **Windows PC Recovery Tool (PRT)**! Contributions, suggestions, and feedback will be welcome once the project is ready for public testing. 🚀
+Thank you for checking out **Windows PC Recovery Tool (PRT)**! Contributions, suggestions, and feedback will be welcome once the project is ready 

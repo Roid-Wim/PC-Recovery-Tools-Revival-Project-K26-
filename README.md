@@ -37,3 +37,5 @@ MT License (You can use it but dont Edit Code)
 Thank you for checking out **Windows PC Recovery Tool (PRT)**! Contributions, suggestions, and feedback will be welcome once the project is ready 
 
 make sure you downloaded the latest version before Reporting a Bug
+
+Discord : https://discord.gg/nW6pNt3xVB

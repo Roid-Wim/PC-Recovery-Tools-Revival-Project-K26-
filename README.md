@@ -14,6 +14,7 @@ Windows PC Recovery Tool (PRT) is a personal open-source project developed by **
 * Network information
 * Windows utilities
 * Additional recovery and troubleshooting tools
+* Disk Utilities
 
 ## Current Status
 
@@ -21,8 +22,8 @@ The project is currently being rewritten from scratch and is still in active dev
 
 ## Requirements
 
-* Windows 7 / 8.1 / 10 / 11 (Still Testing Windows XP / Vista / 7
-* Command Prompt (Administrator privileges recommended for some features)
+* Windows 7 / 8.1 / 10 / 11 (Still Testing Windows XP / Vista )
+* Command Prompt (Administrator privileges Highly recommended)
 
 ## License
 
@@ -38,4 +39,4 @@ Thank you for checking out **Windows PC Recovery Tool (PRT)**! Contributions, su
 
 make sure you downloaded the latest version before Reporting a Bug
 
-Discord : https://discord.gg/nW6pNt3xVB
+Discord Server : https://discord.gg/nW6pNt3xVB

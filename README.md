@@ -23,8 +23,13 @@ The project is currently being rewritten from scratch and is still in active dev
 
 ## Requirements
 
-* Windows 7 / 8.1 / 10 / 11 (Still Testing Windows XP / Vista )
+* Windows 7 / 8.1 / 10 / 11 (Still Testing Windows XP)
 * Command Prompt (Administrator privileges Highly recommended)
+
+* Least
+* Any GB of RAM
+* Windows Vista at Least
+* Any PC that Runs Windows
 
 ## License
 

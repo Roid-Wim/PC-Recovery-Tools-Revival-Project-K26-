@@ -28,7 +28,7 @@ The project is currently being rewritten from scratch and is still in active dev
 
 * Least
 * Any GB of RAM
-* Windows Vista at Least
+* Windows Vista at Least (Most Features like DISM Repair Wont work)
 * Any PC that Runs Windows
 
 ## License

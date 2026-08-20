@@ -23,12 +23,13 @@ The project is currently being rewritten from scratch and is still in active dev
 
 ## Requirements
 
-* Windows 7 / 8.1 / 10 / 11 (Still Testing Windows XP)
+* Windows 8.1 / 10 / 11 
 * Command Prompt (Administrator privileges Highly recommended)
 
+## Minimum Requirment
 * Least
-* Any GB of RAM
-* Windows Vista at Least (Most Features like DISM Repair Wont work)
+* Any GB or MB of RAM
+* At Least Windows XP / Vista / 7  (Most Features like DISM Repair Wont work)
 * Any PC that Runs Windows
 
 ## License
@@ -38,6 +39,9 @@ MT License (You can use it but dont Edit Code And if you edit code and not uploa
 ## Author
 
 **ROID-WIM**
+
+## Testor
+**ANOS** (Yellowberry Dev)
 
 ---
 

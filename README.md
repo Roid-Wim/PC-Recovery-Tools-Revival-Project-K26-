@@ -17,10 +17,10 @@ Windows PC Recovery Tool (PRT) is a personal open-source project developed by **
 * Additional recovery and troubleshooting tools
 * Disk Utilities
 * Computer Health Check
-*Background Monitor
-*Windows Activation Info
-*Performace Report
-*Computer Driver (Driver Utility)
+* Background Monitor
+* Windows Activation Info
+* Performace Report
+* Computer Driver (Driver Utility)
 
 ## Current Status
 

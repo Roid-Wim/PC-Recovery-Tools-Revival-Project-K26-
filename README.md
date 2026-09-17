@@ -1,30 +1,9 @@
 # YellowBerry Project K26 (Windows Recovery Tools revival)
-> ⚠️ **Project Status:** LAST BETA
 
 Youtube Vidoe : https://youtu.be/x0TDruZlCFw?si=v_uaPKzDczDD5L2h
 
 Windows PC Recovery Tool (PRT) is a personal open-source project developed by **Roid.wim**. It aims to provide a simple, lightweight command-line toolkit for Windows recovery, troubleshooting, and system maintenance.
 
-## Features
-
-* Restart Windows
-* Shut down Windows
-* Boot into Windows Recovery Environment (WinRE)
-* Display system information
-* Disk and storage tools
-* Network information
-* Windows utilities
-* Additional recovery and troubleshooting tools
-* Disk Utilities
-* Computer Health Check
-* Background Monitor
-* Windows Activation Info
-* Performace Report
-* Computer Driver (Driver Utility)
-
-## Current Status
-
-The project is currently being rewritten from scratch and its official STABLE Release will be in September of this year so i can begin working on my next Project 
 
 ## Requirements
 
@@ -54,4 +33,4 @@ Thank you for checking out **Windows PC Recovery Tool (PRT)**! Contributions, su
 
 make sure you downloaded the latest version before Reporting a Bug
 
-Discord Server : https://discord.gg/nW6pNt3xVB
+Discord Server : https://disc

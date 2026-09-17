@@ -1,4 +1,4 @@
-# YellowBerry Project K26 (Windows Recovery Tools revival)
+# YellowBerry Project K26 (Windows Recovery Tools Revival)
 
 Youtube Vidoe : https://youtu.be/x0TDruZlCFw?si=v_uaPKzDczDD5L2h
 

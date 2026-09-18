@@ -33,4 +33,4 @@ Thank you for checking out **Windows PC Recovery Tool (PRT)**! Contributions, su
 
 make sure you downloaded the latest version before Reporting a Bug
 
-Discord Server : https://disc
+Discord Server : https://discord.gg/nW6pNt3xVB

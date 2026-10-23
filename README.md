@@ -1,9 +1,12 @@
-# YellowBerry Project K26 (Windows Recovery Tools Revival)
+# YellowBerry Project K26 (Windows Recovery Tools Remapped)
 
-<img width="1560" height="835" alt="Screenshot 2026-10-18 063459" src="https://github.com/user-attachments/assets/5529d979-1577-413e-a7ed-1207e0f202f3" />
+<img width="1490" height="767" alt="Screenshot 2026-10-23 234755" src="https://github.com/user-attachments/assets/974332aa-0028-4d5e-b605-67bece01ed6f" />
+This Project is Written Using BATCH 
 
 Windows PC Recovery Tool (PRT) is a personal open-source project developed by **Roid.wim**. It aims to provide a simple, lightweight command-line toolkit for Windows recovery, troubleshooting, and system maintenance.
+ITS a Small Project Made By Me Roid.wim as a start of a programming and coding adventure
 
+also the reason that i remade PRT is because i want it to be connected to GHWare (My Next Project Still in WIP Btw heres its github page : https://github.com/Roid-Wim/GHWare-Project-K27) also GHWare is being developed alongside My Unity Game which will take a year to finish developing
 
 ## Requirements
 
@@ -25,7 +28,9 @@ MT License (You can use it but dont Edit Code And if you edit code and not uploa
 **ROID-WIM**
 
 ## Testor
-**ANOS** (Yellowberry Dev)
+**ANOS** (Tested v.beta.1.6 and 1.7)
+**Lanflick** (Tested beta.1.7 and stable.1.0)
+**Roid.wim** (Tested Alpha.1.0 to Stable.1.3 Remapped)
 
 ---
 
